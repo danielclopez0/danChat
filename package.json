@@ -1,0 +1,17 @@
+{
+  "name": "appTest",
+  "version": "0.0.1",
+  "description": "test",
+  "author": "dan lopez",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "socket.io": "^1.4.5"
+  },
+  "bin": {
+    "appTest": "app.js"
+  }
+}

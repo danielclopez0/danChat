@@ -1,7 +1,7 @@
 {
-  "name": "appTest",
-  "version": "0.0.1",
-  "description": "test",
+  "name": "DanChat",
+  "version": "0.0.2",
+  "description": "simple chat application using node and socket",
   "author": "dan lopez",
   "engines": {
     "node": ">=0.10"
@@ -12,6 +12,6 @@
     "socket.io": "^1.4.5"
   },
   "bin": {
-    "appTest": "app.js"
+    "DanChat": "app.js"
   }
 }

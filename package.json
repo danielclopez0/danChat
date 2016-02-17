@@ -9,9 +9,13 @@
   "dependencies": {
     "express": "^4.13.4",
     "http": "0.0.0",
+    "redis": "^2.4.2",
     "socket.io": "^1.4.5"
   },
   "bin": {
     "DanChat": "app.js"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
